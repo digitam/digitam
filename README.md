@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**digitam/digitam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, we are digitam 👋
+## We are a digital agency based in the Netherlands designing and developing awesome projects. We increase your digital visibility. 
+At digitam, we go to great lengths for customer satisfaction, and we are always looking to improve. We are **commited** in making the **internet look better**. We provide:
+* Graphic design
+* Web development
+* Branding
+* Marketing
+* SEO Optimization
+* Software development
+## Interesting in working together?
+Visit https://digitam.nl/contact or shoot an email to info@digitam.nl and lets brainstorm together!
